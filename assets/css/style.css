@@ -123,6 +123,20 @@ body {
   .card {
     width: auto;
   }
+  .card-body p {
+    font-size: 1.4rem;
+  }
+  .card-body span{
+    font-style: 1rem;
+  }
+  .avatar p {
+    font-size: 1.2rem;
+  }
+  .btn{
+    width: auto;
+    font-size: 1.2rem;
+    padding: 1rem;
+  }
 }
 @media screen and (min-width: 850px) {
   .cards {
